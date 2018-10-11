@@ -1,13 +1,17 @@
 body {
+  margin: 30px;
+  border: 10px solid black;
+  padding-left: 10px;
+  padding-right: 40px;
   text-align: center;
   margin: 60px;
 }
 .bios {
   float: left;
+  margin: 10 auto;
   width: 25%;
   border: 4px solid yellow;
   padding: 8px;
-  margin: 10px;
   background-color: gray;
   text-align: center;
   font-size: 30px;
